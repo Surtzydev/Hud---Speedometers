@@ -2,7 +2,7 @@
 
 Mod de velocímetros para GTA San Andreas (SA:MP) Android desenvolvido em Lua para MonetLoader.
 
-- Recursos
+## Recursos
 
 - 7 estilos de speedometer.
 - Interface configurável via ImGui.
@@ -11,12 +11,12 @@ Mod de velocímetros para GTA San Andreas (SA:MP) Android desenvolvido em Lua pa
 - Posicionamento e escala personalizados.
 - Compatível com dispositivos 32 e 64 bits.
 
-+ Comandos
+## Comandos
 
 - "/velocimetro"
 - "/speedometer"
 
-- Compatibilidade
+## Compatibilidade
 
 Arquitetura| MonetLoader
 armeabi-v7a (32-bit)| 3.6.0-os
